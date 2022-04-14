@@ -36,8 +36,6 @@ The ``config.json`` file looks like this:
 
 ## Thunder Configuration
 There are two lines you need to add to the Thunder configuration:
-
-```
 !
 logging syslog information
 !
